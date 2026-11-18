@@ -6,7 +6,7 @@ This repository contains a collection of machine learning mini-projects develope
 
 | No. | Project | Description |
 |---|---|---|
-| 1. | [SMS Spam Detection](./SMS-Spam-Detection/) | Classifies SMS messages as Spam or Ham using machine learning. |
+| 1. | SMS Spam Detection | Classifies SMS messages as Spam or Ham using machine learning. |
 
 ## Technologies
 
